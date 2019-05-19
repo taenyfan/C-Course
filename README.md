@@ -8,6 +8,6 @@ The C++ features I learned from this course are:
 3. Classes  and  objects:  encapsulation;  access  functions;  constructors  and  destructors;  arrays  of  objects;  friends;  operator  overloadingsic properties of;  assignment  operator;  shallow  and  deep  copying;  this  pointer.
 4. Inheritance:   base   and   derived   classes;   access   specifiers;   overriding   functions;   multiple   inheritance.
 5. Polymorphism:  base  class  pointers;  abstract  base  classes;  virtual  and  pure  virtual  functions;  interface classes. 
-6.Structuring programs: header files; multiple source files; namespaces.
-7.Advanced C++ features: static data; templates; runtime type checking; error handling and exceptions.
-8.The C++ Standard Library; the boost library; other libraries.
+6. Structuring programs: header files; multiple source files; namespaces.
+7. Advanced C++ features: static data; templates; runtime type checking; error handling and exceptions.
+8. The C++ Standard Library; the boost library; other libraries.
